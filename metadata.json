@@ -1,0 +1,5 @@
+{
+  "name": "Copy of TEKNO YouTube Trends Finder",
+  "description": "TEKNO YouTube Trends Finder helps you discover trending YouTube videos by country and category. Enter your YouTube Data API v3 key and select a region to explore the most popular content.",
+  "requestFramePermissions": []
+}
